@@ -29,7 +29,7 @@
     "@types/mongoose": "^5.7.1",
     "@types/node": "^12.12.12",
     "aws-lambda": "^1.0.5",
-    "aws-sdk": "^2.618.0",
+    "aws-sdk": "^2.814.0",
     "babel-loader": "^8.0.6",
     "cache-loader": "^4.1.0",
     "circular-dependency-plugin": "^5.2.0",
